@@ -1,2 +1,2 @@
 Git is new text!
-This is featurel!
+This is Git new text!
